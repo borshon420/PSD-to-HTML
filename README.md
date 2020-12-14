@@ -1,2 +1,2 @@
-# PSD-to-HTML
+# PSD-to-HTML-panakiea
 PSD to HTML panakiea
